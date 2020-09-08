@@ -13,7 +13,7 @@ var MysqlDbErr error
 
 const (
 	USER_NAME = "root"
-	PASS_WORD = "123"
+	PASS_WORD = "aiNI@13141"
 	HOST      = "127.0.0.1"
 	PORT      = "3306"
 	DATABASE  = "stock"
